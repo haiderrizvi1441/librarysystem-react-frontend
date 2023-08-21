@@ -66,7 +66,7 @@ export const Carousel = () => {
                             <b>Book</b>
                         </h6>
                         <p>Luv2Code</p>
-                        <a className='btn main-color text-white' href="#">Reserve</a>
+                        <a className='btn main-color text-white' href="#" onClick={()=>{console.log("Working")}}>Reserve</a>
                     </div>
                 </div>
             </div>
